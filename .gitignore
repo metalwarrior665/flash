@@ -1,0 +1,7 @@
+apify_local
+node_modules
+mydir
+apify.json
+main.js
+package-lock.json
+package.json
